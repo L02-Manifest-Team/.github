@@ -1,7 +1,7 @@
 # L02 - Manifest Team
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=L02-Manifest+Team;Mobile+App+Development;BKPsycho+App+Project+%F0%9F%93%B1+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=L02-Manifest+Team;Mobile+App+Development;BKMindCare+App+Project+%F0%9F%93%B1+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 
 Hi, we are a **student team from Ho Chi Minh City University of Technology (HCMUT)**, currently enrolled in the **Mobile App Development (CO3043)** course.
@@ -14,7 +14,7 @@ Hi, we are a **student team from Ho Chi Minh City University of Technology (HCMU
 | Huỳnh Minh Tiến    | 2313425          |
 ---
 ## Project
-**Project Name:** BKPsychoApp
+**Project Name:** BKMindCare
 
 **Slogan:** *"Your mind, our care."* 🧠💙
 
