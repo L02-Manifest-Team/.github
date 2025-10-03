@@ -1,5 +1,9 @@
 # L02 - Manifest Team
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=L02-Manifest+Team;Mobile+App+Development;BKPsycho+App+Project+%F0%9F%93%B1+%F0%9F%A7%A0" alt="Typing SVG" />
+</p>
+
 Hi, we are a **student team from Ho Chi Minh City University of Technology (HCMUT)**, currently enrolled in the **Mobile App Development (CO3043)** course.
 ## Team members
 | Name               | Student ID |
@@ -30,3 +34,8 @@ Hi, we are a **student team from Ho Chi Minh City University of Technology (HCMU
 ## 🤝 Our Vision
 At Manifest Team, we value **collaboration, creativity, and continuous learning**.  
 We believe this project is not just an assignment, but also an opportunity to deliver a **real-world solution that improves student mental health**.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" height="80" alt="rocket gif"/>
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="100" height="80" alt="light bulb gif"/>
+</p>
