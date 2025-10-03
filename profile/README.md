@@ -1,7 +1,6 @@
 # L02 - Manifest Team
 
-Hi, we are a **student team from Ho Chi Minh City University of Technology (HCMUT)**, currently study in the **Mobile App Development (CO3043)**.
----
+Hi, we are a **student team from Ho Chi Minh City University of Technology (HCMUT)**, currently enrolled in the **Mobile App Development (CO3043)** course.
 ## Team members
 | Name               | Student ID |
 |--------------------|------------|
